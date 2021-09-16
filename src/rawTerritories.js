@@ -82,7 +82,8 @@ const rawTerritories = [
     ['europe', 'eu-union'],
     'je',
     '44',
-    '.... ......'
+    '.... ......',
+    2
   ],
   [
     'Montserrat',
